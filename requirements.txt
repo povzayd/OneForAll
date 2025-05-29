@@ -4,8 +4,8 @@ certifi==2022.06.15
 chardet==5.0.0
 colorama==0.4.4
 dnspython==2.2.1
-exrex==0.11.0
-fire==0.4.0
+exrex==0.12.0
+fire==0.7.0
 future==0.18.2
 idna==3.3
 loguru==0.6.0
